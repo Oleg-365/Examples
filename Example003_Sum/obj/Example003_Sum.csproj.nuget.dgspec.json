@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Олег\\Documents\\Examples\\Example003_Sum\\Example003_Sum.csproj": {}
+    "C:\\Users\\admin\\Documents\\Lesson_1_Lekciya_C#\\Examples\\Example003_Sum\\Example003_Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Олег\\Documents\\Examples\\Example003_Sum\\Example003_Sum.csproj": {
+    "C:\\Users\\admin\\Documents\\Lesson_1_Lekciya_C#\\Examples\\Example003_Sum\\Example003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Олег\\Documents\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\Lesson_1_Lekciya_C#\\Examples\\Example003_Sum\\Example003_Sum.csproj",
         "projectName": "Example003_Sum",
-        "projectPath": "C:\\Users\\Олег\\Documents\\Examples\\Example003_Sum\\Example003_Sum.csproj",
-        "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Олег\\Documents\\Examples\\Example003_Sum\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\Lesson_1_Lekciya_C#\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\Lesson_1_Lekciya_C#\\Examples\\Example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
